@@ -1,0 +1,13 @@
+EXECUTANDO O SISTEMA PELO CMD
+
+1- criar uma pasta local 
+2- navegar ate a pasta pelo cmd usando "cd  nome da pasta"
+3- git clone https://github.com/sampaioflav/projetosistemaagendamentos.git
+4- cd projetosistemaagendamentos
+5- CRIAR O VENV > python -m venv venv
+6- cd venv
+7- cd Scripts
+8- activate
+9-cd..
+10- cd..
+11- python main.py   >>> EXECUTAR O PROGRAMA 

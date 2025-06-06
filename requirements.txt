@@ -1,0 +1,2 @@
+# Todas as dependências já são nativas do Python.
+# Nenhuma instalação adicional é necessária.
